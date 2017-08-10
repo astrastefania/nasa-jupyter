@@ -5,10 +5,10 @@ I'll list in here each notebook with a short description.
 
 ## Coming soon
 
-Extra-vehicular Activity (EVA) - US and Russia 
+Extra-vehicular Activity (EVA) - US and Russia  
 https://data.nasa.gov/Raw-Data/Extra-vehicular-Activity-EVA-US-and-Russia/9kcy-zwvn
 
-Meteorite Landings 
+Meteorite Landings  
 https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh
 
 I hope to create a Jupyter notebook about Jupiter. ;)
